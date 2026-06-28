@@ -1,0 +1,51 @@
+[
+  {
+    "type": "AAAA",
+    "name": "robertdelanghe.dev",
+    "content": "100::",
+    "proxied": true,
+    "ttl": 1
+  },
+  {
+    "type": "MX",
+    "name": "robertdelanghe.dev",
+    "content": "mx01.mail.icloud.com",
+    "proxied": false,
+    "ttl": 3600
+  },
+  {
+    "type": "MX",
+    "name": "robertdelanghe.dev",
+    "content": "mx02.mail.icloud.com",
+    "proxied": false,
+    "ttl": 3600
+  },
+  {
+    "type": "TXT",
+    "name": "robertdelanghe.dev",
+    "content": "\"apple-domain=Ndz91zmCYeR8vGdL\"",
+    "proxied": false,
+    "ttl": 3600
+  },
+  {
+    "type": "TXT",
+    "name": "robertdelanghe.dev",
+    "content": "\"v=spf1 include:icloud.com ~all\"",
+    "proxied": false,
+    "ttl": 3600
+  },
+  {
+    "type": "CNAME",
+    "name": "sig1._domainkey.robertdelanghe.dev",
+    "content": "sig1.dkim.robertdelanghe.dev.at.icloudmailadmin.com",
+    "proxied": false,
+    "ttl": 3600
+  },
+  {
+    "type": "AAAA",
+    "name": "www.robertdelanghe.dev",
+    "content": "100::",
+    "proxied": true,
+    "ttl": 1
+  }
+]
